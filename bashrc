@@ -12,7 +12,6 @@
 #  Set architecture flags
    export ARCHFLAGS="-arch x86_64"
    export HISTCONTROL=ignoredups
-   export HOMEBREW_GITHUB_API_TOKEN=edc96feb9e1c75559ec66a9e46207767f0c95f42
    export RBENV_ROOT=/usr/local/var/rbenv
 
 #  Change Prompt
